@@ -22,3 +22,6 @@
 [submodule "user/plugins/post_receive"]
 	path = user/plugins/post_receive
 	url = git@github.com:mikelietz/post_receive.git
+[submodule "user/plugins/hash_head"]
+	path = user/plugins/hash_head
+	url = git@github.com:mikelietz/hash_head.git
